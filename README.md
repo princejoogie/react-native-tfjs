@@ -1,4 +1,4 @@
-# rn-tfjs
+# React-Native Image Classifier with TensorflowJS
 
 This is an Image Classifier boilerplate created with [React-Native](https://reactnative.dev/) ([Expo](https://expo.io/)) and [TensorflowJS](https://www.tensorflow.org/js).
 
