@@ -1,8 +1,8 @@
-# rn-tfjs
+# React-Native Image Classifier with TensorflowJS
 
 This is an Image Classifier boilerplate created with [React-Native](https://reactnative.dev/) ([Expo](https://expo.io/)) and [TensorflowJS](https://www.tensorflow.org/js).
 
-- Download the [apk](https://asiapacificcollege-my.sharepoint.com/:u:/g/personal/ppjuguilon_student_apc_edu_ph/Ed_mZnYl_YNEiyFVA_8vsY8BzPumREiX2yPbLw7rF8KJVQ?e=jMfyn0).
+- Download the apk from the [release](https://github.com/princejoogie/react-native-tfjs/releases) section.
 - [Yarn](https://yarnpkg.com/) is preffered in this project.
 - Expo GO is required to be installed on device install in [App Store](https://apps.apple.com/us/app/expo-go/id982107779) or [Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US) for android.
 
