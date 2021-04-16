@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Genesis",
-    "slug": "genesis",
+    "name": "rn-tfjs",
+    "slug": "rn-tfjs",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.genesis.apc"
+      "package": "com.princejoogie.rntfjs"
     },
     "web": {
       "favicon": "./assets/favicon.png"

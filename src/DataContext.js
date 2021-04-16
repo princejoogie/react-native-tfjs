@@ -7,7 +7,6 @@ export const DataContext = createContext();
 export const DataProvider = ({ children }) => {
   const [model, setModel] = useState();
   const [loading, setLoading] = useState(true);
-  const [isDark, setIsDark] = useState(false);
 
   useEffect(() => {
     const init = async () => {
@@ -22,7 +21,7 @@ export const DataProvider = ({ children }) => {
   }, []);
 
   return (
-    <DataContext.Provider value={{ model, loading, dm: [isDark, setIsDark] }}>
+    <DataContext.Provider value={{ model, loading }}>
       {children}
     </DataContext.Provider>
   );
